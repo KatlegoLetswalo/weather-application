@@ -1,0 +1,45 @@
+.App {
+	text-align: center;
+}
+
+/*Form styling */
+
+form {
+	margin-top: 3rem;
+}
+
+form input[name='city'],
+form input[name='country'] {
+	background-color: transparent;
+	color: white;
+	border: none;
+	border-bottom: 2px solid whitesmoke;
+	border-radius: 0;
+}
+
+/*Weather app styling*/
+
+.container {
+	margin-top: 1.2rem;
+}
+
+.container input,
+.container ::-webkit-input-placeholder {
+	color: white !important;
+}
+.container input:focus {
+	background-color: transparent;
+	box-shadow: none !important;
+	border: none;
+	border-bottom: 2px solid tomato;
+}
+
+.containertext-light {
+	padding-top: 10px;
+}
+
+.container-weather {
+	min-height: 100vh;
+	padding-top: 150px;
+	color: white;
+}
