@@ -71,3 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Changelog
 Small Readme updates
+
+# Git Cheatsheet
+A valuable resource for git https://education.github.com/git-cheat-sheet-education.pdf
