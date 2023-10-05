@@ -74,3 +74,6 @@ Small Readme updates
 
 # Git Cheatsheet
 A valuable resource for git https://education.github.com/git-cheat-sheet-education.pdf
+
+# Adding text to development branch
+I'm committing this code and will action a pull request from github for you to pull the changes and then merge into main.
